@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Query</string>
+    <string name="action_settings">Settings</string>
+    <string name="query_header">So...</string>
+    <string name="query_button">Query</string>
+    <string name="query_placeholder">What are you busy with today? Will this matter one year from now?</string>
+</resources>

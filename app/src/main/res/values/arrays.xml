@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="questions_array">
+        <item>What are you passionate about?</item>
+        <item>What are the achievements you are most proud of?</item>
+        <item>What are you most grateful for in life?</item>
+        <item>What are the most important things to you in life?</item>
+        <item>How would you describe yourself?</item>
+        <item>What are your values?</item>
+        <item>What do you want to embody?</item>
+        <item>Do you love yourself?</item>
+        <item>What is your ideal self?</item>
+        <item>Look at your life now. Are you living the life of your dreams?</item>
+        <item>If you had one year left to live, what would you do?</item>
+        <item>What are the biggest things you have learned in life to date?</item>
+        <item>What are you busy with today? Will this matter one year from now?</item>
+        <item>What opportunities are you looking for?</item>
+        <item>What are your biggest goals and dreams?</item>
+        <item>What would you do if you cannot fail?</item>
+        <item>What do you want to achieve one year from now?</item>
+        <item>If you had one million dollars, what would you do with it?</item>
+        <item>Do you love your job?</item>
+        <item>What is your ideal career?</item>
+        <item>What is your ideal life?</item>
+        <item>What do you fear most in life?</item>
+        <item>What bad habits do you want to break?</item>
+        <item>What good habits do you want to cultivate?</item>
+        <item>Are you living your life to the fullest right now?</item>
+        <item>What drives you?</item>
+        <item>How can you change someone\&apos;s life for the better today?</item>
+        <item>What is your ideal life partner like?</item>
+        <item>Are you afraid of letting others get close to you?</item>
+        <item>Who is/are the most important person(s) to you in the world?</item>
+        <item>What kind of person do you enjoy spending time with?</item>
+        <item>What is your quest?!</item>
+        <item>What is the most important quality in a friend? A significant other?</item>
+        <item>What is my goal for some long time period? What\&apos;s stopping me from accomplishing it over the next six months?</item>
+        <item>What do you worship?</item>
+        <item>Do you like yourself when you\&apos;re alone?</item>
+        <item>Are you honest with yourself? Can you trust your intentions?</item>
+        <item>Are you honest with others?</item>
+        <item>How has technology changed the way you interact with the world and other people?</item>
+        <item>If you\&apos;re too busy for something, what are you prioritizing over that thing? </item>
+        <item>What is the value of idleness?</item>
+        <item>Is the presence of extreme low necessary to obtain an extreme high?</item>
+        <item>Do you feel a wider range of emotions alone or with other people? </item>
+        <item>What were you like this time last year?</item>
+        <item>How can you be more financially responsible?</item>
+        <item>When was the last time you called your mother?</item>
+        <item>How can you improve yourself today?</item>
+        <item>How can you improve yourself in the next week?</item>
+        <item>What should you spend your free time on?</item>
+        <item>What is a new hobby you can learn?</item>
+        <item>What is a skill you\&apos;ve always wanted to learn? Why haven\&apos;t you learned it?</item>
+        <item>Are you managing your time efficiently?</item>
+        <item>How can you be a benefit to those around you?</item>
+        <item>What volunteer work could you fit into your schedule?</item>
+        <item>Have you had your coffee today?</item>
+        <item>How can you make a friend feel appreciated today?</item>
+        <item>How can you be a blessing to your s/o today?</item>
+        <item>What is your exit strategy from your home in case of fire?</item>
+        <item>What is your exit strategy from your city in case of war?</item>
+        <item>How can you be more health minded in your daily life?</item>
+        <item>Who should you vote for in the next election?</item>
+        <item>What are you providing to your friend circle?</item>
+        <item>When it\&apos;s all said and done, will you have said more than you\&apos;ve done?</item>
+        <item>What is the one thing you\&apos;d most like to change about the world?</item>
+        <item>Are you doing what you believe in, or are you settling for what you\&apos;re doing?</item>
+        <item>Are you more worried about doing things right, or doing the right things?</item>
+        <item>Have you been the kind of friend you want as a friend?</item>
+        <item>If you knew that everyone you know was going to die tomorrow, who would you visit today?</item>
+        <item>Decisions are being made right now. The question is: Are you making them for yourself, or are you letting others make them for you?</item>
+        <item>What decision are you avoiding?</item>
+        <item>Who do you envy or admire? What qualities do these people have? In what way can you learn from them? </item>
+        <item>If you were to repeat your actions over the past week every week, will that produce the kind of life you want to have?</item>
+        <item>How can you reduce your carbon footprint?</item>
+        <item>If you lost your job today, would you have enough money to survive until you found a new one?</item>
+        <item>What positive characteristics would you like to develop?</item>
+        <item>How can you develop your creativity?</item>
+        <item>What personal talent can you work on to further you in life?</item>
+
+    </string-array>
+
+</resources>
